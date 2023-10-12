@@ -6,13 +6,11 @@
 
 - 🔭 I’m currently working on **School at the moment**
 
-- 🌱 I’m currently learning **PHP & SQL**
-
-- 👯 I’m looking to collaborate on **Finding an apprenticeship**
+- 🌱 I’m currently learning **NestJS & React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArrnaudMoreau22?tab=repositories](https://github.com/ArrnaudMoreau22?tab=repositories)
 
-- 💬 Ask me about **vue & backend**
+- 💬 Ask me about **React & NestJS**
 
 - 📫 How to reach me **Arnaud.moreau22@gmail.com**
 
