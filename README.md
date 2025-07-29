@@ -2,9 +2,6 @@
 <h3 align="center">Ingénieur IA spécialisé en Deep Learning & Vision par Ordinateur</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arnaud-moreau-073426173" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="mailto:arnaud.moreau22@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
