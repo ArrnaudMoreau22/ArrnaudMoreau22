@@ -23,9 +23,9 @@
 
 ## 👨‍💻 À propos
 
-Ingénieur logiciel avec une forte spécialisation en **intelligence artificielle appliquée**, je combine une expérience concrète en **développement full-stack** avec un intérêt marqué pour le [...]
+Ingénieur logiciel avec une forte spécialisation en **intelligence artificielle appliquée**, je combine une expérience concrète en **développement full-stack** avec un intérêt marqué pour le **Deep Learning**, l’**IA agentique**, l’**automatisation intelligente**, le **Reinforcement Learning** et le **MLOps**.
 
-Mon objectif est de concevoir des solutions IA complètes : de la structuration des données à l’entraînement ou l’orchestration de modèles, jusqu’à leur intégration dans des applications r[...]
+Mon objectif est de concevoir des solutions IA complètes : de la structuration des données à l’entraînement ou l’orchestration de modèles, jusqu’à leur intégration dans des applications robustes, maintenables et déployables.
 
 J’aime particulièrement travailler à l’intersection entre :
 
@@ -318,7 +318,7 @@ J’aime particulièrement travailler à l’intersection entre :
 
 ## 💬 Me contacter
 
-Je suis toujours ouvert à échanger autour de projets liés à l’IA, au développement logiciel, à l’IA agentique, à l’automatisation, au Reinforcement Learning, au MLOps ou à la veille tech[...] 
+Je suis toujours ouvert à échanger autour de projets liés à l’IA, au développement logiciel, à l’IA agentique, à l’automatisation, au Reinforcement Learning, au MLOps ou à la veille technologique.
 
 <p align="left">
   <a href="mailto:nono.moreau22@gmail.com">
