@@ -23,9 +23,9 @@
 
 ## 👨‍💻 À propos
 
-Ingénieur logiciel avec une forte spécialisation en **intelligence artificielle appliquée**, je combine une expérience concrète en **développement full-stack** avec un intérêt marqué pour le **Deep Learning**, l’**IA agentique**, l’**automatisation intelligente**, le **Reinforcement Learning** et le **MLOps**.
+Ingénieur logiciel avec une forte spécialisation en **intelligence artificielle appliquée**, je combine une expérience concrète en **développement full-stack** avec un intérêt marqué pour le [...]
 
-Mon objectif est de concevoir des solutions IA complètes : de la structuration des données à l’entraînement ou l’orchestration de modèles, jusqu’à leur intégration dans des applications robustes, maintenables et déployables.
+Mon objectif est de concevoir des solutions IA complètes : de la structuration des données à l’entraînement ou l’orchestration de modèles, jusqu’à leur intégration dans des applications r[...]
 
 J’aime particulièrement travailler à l’intersection entre :
 
@@ -41,11 +41,12 @@ J’aime particulièrement travailler à l’intersection entre :
 
 ## 🔭 Ce sur quoi je travaille actuellement
 
-- Développement de modèles de **détection d’images générées par IA** avec une approche teacher/student et analyse de discrepancy.
-- Expérimentation autour du **Deep Q-Learning** sur des environnements Atari.
+- Développement de modèles de **détection d’images générées par IA** avec une approche teacher/student et analyse de discrepancy. (Repo : [student-teacher-discrepancy](https://github.com/ArrnaudMoreau22/student-teacher-discrepancy))
+- Expérimentation autour du **Deep Q-Learning** sur des environnements Atari. (Repo : [reinforcement_learning_atari](https://github.com/ArrnaudMoreau22/reinforcement_learning_atari))
 - Exploration de l’**IA agentique** avec LangChain et LangGraph pour construire des workflows automatisés et des agents capables d’interagir avec différents outils.
 - Développement d’une **newsletter quotidienne IA & Tech**, disponible sur le repo [Daily-Tech-Newsletter](https://github.com/ArrnaudMoreau22/Daily-Tech-Newsletter).
-- Mise en place d’environnements **Kubernetes** avec Traefik, Argo CD, Prometheus, Grafana et Loki.
+- Mise en place d’environnements **Kubernetes** avec Traefik, Argo CD, Prometheus, Grafana et Loki. (Repo : [kubernetes](https://github.com/ArrnaudMoreau22/kubernetes))
+- Projet **CNN pour la détection de pneumonie** via scanners de poumons. (Repo : [Convolutional_neural_network](https://github.com/ArrnaudMoreau22/Convolutional_neural_network))
 - Construction d’applications backend modernes avec **NestJS**, **TypeORM**, **PostgreSQL** et une architecture propre.
 - Amélioration de mes compétences en **RAG**, **automatisation intelligente**, **MLOps** et orchestration de systèmes IA.
 
@@ -61,13 +62,20 @@ J’aime particulièrement travailler à l’intersection entre :
   Création de workflows avec LangChain et LangGraph, orchestration d’outils, agents spécialisés, automatisation de tâches métier et intégration avec des APIs.
 
 - 🖼️ **Détection d’images générées**  
-  Classification real/fake, comparaison teacher vs student, génération de datasets de discrepancy, Grad-CAM et analyse des erreurs.
+  Classification real/fake, comparaison teacher vs student, génération de datasets de discrepancy, Grad-CAM et analyse des erreurs.  
+  Repo : [student-teacher-discrepancy](https://github.com/ArrnaudMoreau22/student-teacher-discrepancy)
 
 - 🎮 **Deep Reinforcement Learning**  
-  Implémentation d’agents DQN sur jeux Atari avec replay buffer, target network, stratégie epsilon-greedy et optimisations PyTorch.
+  Implémentation d’agents DQN sur jeux Atari avec replay buffer, target network, stratégie epsilon-greedy et optimisations PyTorch.  
+  Repo : [reinforcement_learning_atari](https://github.com/ArrnaudMoreau22/reinforcement_learning_atari)
 
 - ☸️ **Kubernetes & MLOps local**  
-  Cluster Kubernetes local avec Vagrant, Traefik, Argo CD, observabilité avec Prometheus/Grafana/Loki et réflexion sur le stockage persistant.
+  Cluster Kubernetes local avec Vagrant, Traefik, Argo CD, observabilité avec Prometheus/Grafana/Loki et réflexion sur le stockage persistant.  
+  Repo : [kubernetes](https://github.com/ArrnaudMoreau22/kubernetes)
+
+- 🫁 **Détection de pneumonie (CNN)**  
+  Projet de détection de pneumonie via des scanners de poumons grâce à des modèles CNN.  
+  Repo : [Convolutional_neural_network](https://github.com/ArrnaudMoreau22/Convolutional_neural_network)
 
 - 🧱 **Applications full-stack**  
   Développement d’applications avec Laravel, Vue.js, React Native/Expo, NestJS, PostgreSQL et MongoDB.
@@ -310,7 +318,7 @@ J’aime particulièrement travailler à l’intersection entre :
 
 ## 💬 Me contacter
 
-Je suis toujours ouvert à échanger autour de projets liés à l’IA, au développement logiciel, à l’IA agentique, à l’automatisation, au Reinforcement Learning, au MLOps ou à la veille technologique.
+Je suis toujours ouvert à échanger autour de projets liés à l’IA, au développement logiciel, à l’IA agentique, à l’automatisation, au Reinforcement Learning, au MLOps ou à la veille tech[...] 
 
 <p align="left">
   <a href="mailto:nono.moreau22@gmail.com">
